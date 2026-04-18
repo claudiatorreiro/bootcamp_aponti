@@ -1,18 +1,26 @@
-# 🚀 Bootcamp FAP 2026 | Trilha de Formação em Tecnologia
+# 🚀 Bootcamp FAP 2026 | Transição de Carreira para Tecnologia
 
-📚 Repositório desenvolvido durante minha participação no **Bootcamp FAP 2026**, promovido pela APONTI Academy, com foco na formação em tecnologia e desenvolvimento de competências digitais.
+👩‍💻 Advogada e servidora pública em transição estratégica para a área de tecnologia, com foco em **Análise de Dados e Desenvolvimento Backend**.
 
----
-
-## 👩‍💻 Claudia Torreiro
-
-Advogada e servidora pública em transição de carreira para tecnologia, com foco em **Análise de Dados e Desenvolvimento Backend**.
+📚 Este repositório documenta minha jornada no **Bootcamp FAP 2026 (APONTI Academy)**, com atividades práticas, exercícios e evolução técnica ao longo da formação.
 
 ---
 
-## 🎯 Sobre este repositório
+## 👩‍⚖️ Claudia Torreiro
 
-Este espaço reúne atividades, exercícios e projetos desenvolvidos ao longo da trilha de formação:
+Tenho mais de 10 anos de experiência no setor público, atuando com:
+- Regularização fundiária
+- Gestão de processos administrativos
+- Análise e organização de dados
+- Interface com órgãos públicos e cartórios
+
+🎯 Atualmente, estou direcionando minha carreira para tecnologia, com o objetivo de aplicar soluções digitais em contextos reais, especialmente no setor público (**GovTech**).
+
+---
+
+## 🚀 Sobre o Bootcamp FAP 2026
+
+Programa de formação em tecnologia com foco no desenvolvimento de competências práticas e pensamento computacional.
 
 ### 🧩 Fase 1 — Fundamentos
 - Soft Skills
@@ -24,22 +32,47 @@ Este espaço reúne atividades, exercícios e projetos desenvolvidos ao longo da
 - Introdução a Banco de Dados
 - Documentação de Projetos
 
-### 🚀 Fase 2 — Especialização
-- - Trilha escolhida: Desenvolvimento Backend - DevOps
+### 🎯 Fase 2 — Especialização
+- Trilha escolhida: **Desenvolvimento Backend**
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias em desenvolvimento
+
 - Git & GitHub
-- Python (em aprendizado)
-- HTML & CSS (básico)
+- Python
+- SQL (em andamento)
+- HTML & CSS (fundamentos)
 
 ---
 
-## 📌 Objetivo
+## 📊 Objetivo profissional
 
-Construir uma base sólida em tecnologia para atuar na área, integrando minha experiência em gestão pública e Direito com soluções digitais.
+Atuar na área de tecnologia unindo:
+- Minha experiência jurídica e administrativa  
+- Capacidade analítica  
+- Desenvolvimento de soluções digitais  
+
+💡 Interesse especial em:
+- GovTech (tecnologia aplicada ao setor público)
+- Dados para tomada de decisão
+- Sistemas voltados à gestão territorial e urbana
 
 ---
 
-✨ Repositório em constante evolução durante o Bootcamp FAP 2026
+## 📌 Sobre este repositório
+
+Este repositório será utilizado para:
+- Registrar minha evolução no Bootcamp
+- Organizar exercícios e projetos
+- Servir como base inicial do meu portfólio em tecnologia
+
+---
+
+## 🔗 Conecte-se comigo
+
+[LinkedIn] www.linkedin.com/in/claudia-torreiro-52b30056
+
+---
+
+✨ Em construção — acompanhando minha evolução no Bootcamp FAP 2026
