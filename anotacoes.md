@@ -24,19 +24,20 @@
 
 ---
 
-## 🔹 JavaScript (em andamento)
-- Linguagem responsável pela interatividade
+## 🔹 JavaScript
+- Linguagem responsável pela interatividade em páginas web
 - Uso de variáveis e tipos de dados
 - Estruturas condicionais (if/else)
-- Funções e eventos
+- Funções
+- Manipulação de eventos
 
 ---
 
-## 🔹 Python (em andamento)
-- Lógica de programação
+## 🔹 Python
+- Linguagem utilizada para lógica de programação e backend
 - Variáveis e tipos de dados
-- Estruturas de repetição e decisão
-- Base para desenvolvimento backend
+- Estruturas de decisão e repetição
+- Organização de código com funções
 
 ---
 
